@@ -1,0 +1,1902 @@
+[
+  {
+    "phone_number": "+1-800-555-0001",
+    "type": "scam call",
+    "reported_name": "IRS Scam",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Claiming to be from the IRS and demanding payment.",
+    "reports": [
+      {
+        "date_reported": "2024-12-01",
+        "user_comment": "Threatened legal action if I didn’t pay immediately.",
+        "spam_score": 9.5
+      },
+      {
+        "date_reported": "2024-12-02",
+        "user_comment": "Recorded message posing as IRS agent.",
+        "spam_score": 9.0
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0002",
+    "type": "telemarketing",
+    "reported_name": "Vacation Giveaway",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Offering ‘free’ vacations if personal info is provided.",
+    "reports": [
+      {
+        "date_reported": "2024-12-03",
+        "user_comment": "Keeps pushing a timeshare offer.",
+        "spam_score": 7.0
+      },
+      {
+        "date_reported": "2024-12-04",
+        "user_comment": "Calls multiple times a week.",
+        "spam_score": 7.8
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0003",
+    "type": "spam text",
+    "reported_name": "Gift Card Scam",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Claims you’ve won a gift card and asks to click a link.",
+    "reports": [
+      {
+        "date_reported": "2024-12-02",
+        "user_comment": "Link leads to a shady site.",
+        "spam_score": 9.2
+      },
+      {
+        "date_reported": "2024-12-08",
+        "user_comment": "Repeated texts about gift cards.",
+        "spam_score": 8.8
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0004",
+    "type": "smishing",
+    "reported_name": "Bank Alert Scam",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Falsely claims bank account is locked, asks to verify info.",
+    "reports": [
+      {
+        "date_reported": "2024-12-05",
+        "user_comment": "Looked like my bank number but wasn’t.",
+        "spam_score": 9.8
+      },
+      {
+        "date_reported": "2024-12-06",
+        "user_comment": "Phishing link in text.",
+        "spam_score": 9.6
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0005",
+    "type": "robocall",
+    "reported_name": "Car Warranty",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Automated message about expiring car warranty.",
+    "reports": [
+      {
+        "date_reported": "2024-12-07",
+        "user_comment": "Classic vehicle warranty scam.",
+        "spam_score": 7.0
+      },
+      {
+        "date_reported": "2024-12-09",
+        "user_comment": "Won’t stop calling.",
+        "spam_score": 7.5
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0006",
+    "type": "scam call",
+    "reported_name": "Student Loan Forgiveness",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Claims you’re eligible for immediate loan forgiveness if you pay a fee.",
+    "reports": [
+      {
+        "date_reported": "2024-12-10",
+        "user_comment": "Asked for my SSN right away.",
+        "spam_score": 8.9
+      },
+      {
+        "date_reported": "2024-12-11",
+        "user_comment": "Recorded voice, very pushy.",
+        "spam_score": 8.5
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0007",
+    "type": "phishing",
+    "reported_name": "PayPal Account Scam",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Says your PayPal account has suspicious activity, asks to log in via fake link.",
+    "reports": [
+      {
+        "date_reported": "2024-12-01",
+        "user_comment": "Fake PayPal site asked for card info.",
+        "spam_score": 9.4
+      },
+      {
+        "date_reported": "2024-12-02",
+        "user_comment": "Pretends to be PayPal security.",
+        "spam_score": 9.1
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0008",
+    "type": "telemarketing",
+    "reported_name": "Home Security Offer",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Pushing home security systems at a ‘discount.’",
+    "reports": [
+      {
+        "date_reported": "2024-12-03",
+        "user_comment": "Wouldn’t stop calling about alarms.",
+        "spam_score": 6.5
+      },
+      {
+        "date_reported": "2024-12-05",
+        "user_comment": "Daily calls, very annoying.",
+        "spam_score": 7.2
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0009",
+    "type": "spam text",
+    "reported_name": "Fake Lottery Win",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Congrats! You’ve won a lottery you never entered.",
+    "reports": [
+      {
+        "date_reported": "2024-12-06",
+        "user_comment": "Links to form asking for personal details.",
+        "spam_score": 9.0
+      },
+      {
+        "date_reported": "2024-12-07",
+        "user_comment": "Keeps texting about my ‘prize.’",
+        "spam_score": 8.7
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0010",
+    "type": "scam call",
+    "reported_name": "Fake Charity",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Asking for donations to a non-existent charity.",
+    "reports": [
+      {
+        "date_reported": "2024-12-08",
+        "user_comment": "Refused to provide legit info.",
+        "spam_score": 8.2
+      },
+      {
+        "date_reported": "2024-12-09",
+        "user_comment": "Sounds like a scam charity.",
+        "spam_score": 8.8
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0011",
+    "type": "robocall",
+    "reported_name": "Medicare Scam",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Offers new Medicare card if you provide SSN.",
+    "reports": [
+      {
+        "date_reported": "2024-12-10",
+        "user_comment": "Asked for personal info right away.",
+        "spam_score": 9.1
+      },
+      {
+        "date_reported": "2024-12-11",
+        "user_comment": "Caller ID spoofed to look local.",
+        "spam_score": 8.9
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0012",
+    "type": "smishing",
+    "reported_name": "Netflix Account Warning",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Says your Netflix account will be suspended unless you verify payment info.",
+    "reports": [
+      {
+        "date_reported": "2024-12-01",
+        "user_comment": "Fake link asking for card details.",
+        "spam_score": 9.7
+      },
+      {
+        "date_reported": "2024-12-04",
+        "user_comment": "Claims my account expired.",
+        "spam_score": 9.3
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0013",
+    "type": "telemarketing",
+    "reported_name": "Energy Savings",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Claims to lower your energy bill if you switch providers.",
+    "reports": [
+      {
+        "date_reported": "2024-12-02",
+        "user_comment": "Pressure to switch providers.",
+        "spam_score": 6.8
+      },
+      {
+        "date_reported": "2024-12-05",
+        "user_comment": "Won’t accept ‘no.’",
+        "spam_score": 7.1
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0014",
+    "type": "scam call",
+    "reported_name": "Tech Support Scam",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Pretending to be from Microsoft, saying your computer is infected.",
+    "reports": [
+      {
+        "date_reported": "2024-12-06",
+        "user_comment": "Wanted remote access to my PC.",
+        "spam_score": 9.6
+      },
+      {
+        "date_reported": "2024-12-07",
+        "user_comment": "Heavy accent, demanded payment.",
+        "spam_score": 9.4
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0015",
+    "type": "spam text",
+    "reported_name": "Credit Score Boost",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Says you can instantly improve your credit score if you sign up.",
+    "reports": [
+      {
+        "date_reported": "2024-12-08",
+        "user_comment": "Link asked for SSN.",
+        "spam_score": 8.9
+      },
+      {
+        "date_reported": "2024-12-09",
+        "user_comment": "Keeps texting weekly.",
+        "spam_score": 8.5
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0016",
+    "type": "robocall",
+    "reported_name": "Health Insurance Promo",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Offers low-cost health insurance plans, just need your details.",
+    "reports": [
+      {
+        "date_reported": "2024-12-10",
+        "user_comment": "Robo voice, not legit.",
+        "spam_score": 7.9
+      },
+      {
+        "date_reported": "2024-12-11",
+        "user_comment": "Persistent calling.",
+        "spam_score": 7.4
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0017",
+    "type": "smishing",
+    "reported_name": "Account Verification",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Your account needs verification, click this link.",
+    "reports": [
+      {
+        "date_reported": "2024-12-01",
+        "user_comment": "Fake link to a phishing page.",
+        "spam_score": 9.5
+      },
+      {
+        "date_reported": "2024-12-02",
+        "user_comment": "Pretends to be Amazon.",
+        "spam_score": 9.2
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0018",
+    "type": "telemarketing",
+    "reported_name": "Debt Consolidation",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Offers to consolidate debt for a fee.",
+    "reports": [
+      {
+        "date_reported": "2024-12-03",
+        "user_comment": "Wants upfront payment.",
+        "spam_score": 8.0
+      },
+      {
+        "date_reported": "2024-12-04",
+        "user_comment": "Keeps calling about debt relief.",
+        "spam_score": 7.7
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0019",
+    "type": "phishing",
+    "reported_name": "Apple ID Alert",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Your Apple ID is locked, verify now.",
+    "reports": [
+      {
+        "date_reported": "2024-12-05",
+        "user_comment": "Fake Apple link.",
+        "spam_score": 9.7
+      },
+      {
+        "date_reported": "2024-12-06",
+        "user_comment": "Asks for password and credit card.",
+        "spam_score": 9.5
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0020",
+    "type": "scam call",
+    "reported_name": "Loan Approval",
+    "last_reported_date": "2024-12-13",
+    "common_message": "You’re pre-approved for a loan, just pay a small ‘processing fee.’",
+    "reports": [
+      {
+        "date_reported": "2024-12-07",
+        "user_comment": "Asks for fee upfront.",
+        "spam_score": 8.8
+      },
+      {
+        "date_reported": "2024-12-08",
+        "user_comment": "Fake loan company.",
+        "spam_score": 8.6
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0021",
+    "type": "robocall",
+    "reported_name": "Insurance Rate Reduction",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Automated message offering lower insurance rates.",
+    "reports": [
+      {
+        "date_reported": "2024-12-09",
+        "user_comment": "Calls daily at odd hours.",
+        "spam_score": 7.8
+      },
+      {
+        "date_reported": "2024-12-10",
+        "user_comment": "Won’t stop even after blocking.",
+        "spam_score": 8.0
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0022",
+    "type": "telemarketing",
+    "reported_name": "Solar Panel Deals",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Wants to sell solar panels with huge discounts.",
+    "reports": [
+      {
+        "date_reported": "2024-12-11",
+        "user_comment": "Non-stop calls about solar.",
+        "spam_score": 6.3
+      },
+      {
+        "date_reported": "2024-12-12",
+        "user_comment": "Pushy sales rep.",
+        "spam_score": 7.0
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0023",
+    "type": "scam call",
+    "reported_name": "Social Security Fraud",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Claims your SSN is suspended.",
+    "reports": [
+      {
+        "date_reported": "2024-12-01",
+        "user_comment": "Threatened to suspend my SSN.",
+        "spam_score": 9.8
+      },
+      {
+        "date_reported": "2024-12-02",
+        "user_comment": "Wanted my SSN and DOB.",
+        "spam_score": 9.6
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0024",
+    "type": "phishing",
+    "reported_name": "FedEx Delivery Scam",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Claims package is delayed, click link to reschedule.",
+    "reports": [
+      {
+        "date_reported": "2024-12-03",
+        "user_comment": "Fake tracking link.",
+        "spam_score": 9.0
+      },
+      {
+        "date_reported": "2024-12-04",
+        "user_comment": "Said I need to pay a fee.",
+        "spam_score": 8.9
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0025",
+    "type": "spam text",
+    "reported_name": "Romance Scam",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Pretends to be interested romantically, asks for money.",
+    "reports": [
+      {
+        "date_reported": "2024-12-05",
+        "user_comment": "Texted me daily flattering messages.",
+        "spam_score": 8.7
+      },
+      {
+        "date_reported": "2024-12-06",
+        "user_comment": "Eventually asked for cash.",
+        "spam_score": 9.1
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0026",
+    "type": "telemarketing",
+    "reported_name": "Timeshare Resale",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Says they can sell your timeshare fast for a fee.",
+    "reports": [
+      {
+        "date_reported": "2024-12-07",
+        "user_comment": "Keeps calling about timeshares.",
+        "spam_score": 7.2
+      },
+      {
+        "date_reported": "2024-12-08",
+        "user_comment": "Asked for upfront cost.",
+        "spam_score": 7.6
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0027",
+    "type": "scam call",
+    "reported_name": "Fake Immigration Threat",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Claims you’ll be deported unless you pay fines.",
+    "reports": [
+      {
+        "date_reported": "2024-12-09",
+        "user_comment": "Threatened deportation.",
+        "spam_score": 9.3
+      },
+      {
+        "date_reported": "2024-12-10",
+        "user_comment": "Heavy accent, very intimidating.",
+        "spam_score": 9.4
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0028",
+    "type": "robocall",
+    "reported_name": "Legal Case Filing",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Says a lawsuit has been filed against you, call back now.",
+    "reports": [
+      {
+        "date_reported": "2024-12-11",
+        "user_comment": "Robot voice about a lawsuit.",
+        "spam_score": 8.5
+      },
+      {
+        "date_reported": "2024-12-12",
+        "user_comment": "Repeated daily calls.",
+        "spam_score": 8.3
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0029",
+    "type": "smishing",
+    "reported_name": "Unclaimed Package",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Says you have an unclaimed package, click link to claim.",
+    "reports": [
+      {
+        "date_reported": "2024-12-01",
+        "user_comment": "Link asked for credit card.",
+        "spam_score": 9.2
+      },
+      {
+        "date_reported": "2024-12-02",
+        "user_comment": "Fake shipping notice.",
+        "spam_score": 9.0
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0030",
+    "type": "telemarketing",
+    "reported_name": "Work-From-Home Scheme",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Offers huge income if you join their ‘program.’",
+    "reports": [
+      {
+        "date_reported": "2024-12-03",
+        "user_comment": "Wanted a ‘membership fee.’",
+        "spam_score": 7.9
+      },
+      {
+        "date_reported": "2024-12-04",
+        "user_comment": "Calls daily with new offers.",
+        "spam_score": 7.5
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0031",
+    "type": "scam call",
+    "reported_name": "Fake Charity for Veterans",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Asks for donations to support veterans, not a real charity.",
+    "reports": [
+      {
+        "date_reported": "2024-12-05",
+        "user_comment": "Wouldn’t provide legit credentials.",
+        "spam_score": 8.5
+      },
+      {
+        "date_reported": "2024-12-06",
+        "user_comment": "Pressured me for money.",
+        "spam_score": 8.9
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0032",
+    "type": "spam text",
+    "reported_name": "Fake Job Offer",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Says you got a job but must pay a training fee.",
+    "reports": [
+      {
+        "date_reported": "2024-12-07",
+        "user_comment": "Fake HR message.",
+        "spam_score": 8.4
+      },
+      {
+        "date_reported": "2024-12-08",
+        "user_comment": "Wants money before starting.",
+        "spam_score": 8.8
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0033",
+    "type": "phishing",
+    "reported_name": "Credit Card Alert",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Says your credit card is on hold, verify details.",
+    "reports": [
+      {
+        "date_reported": "2024-12-09",
+        "user_comment": "Fake card company call.",
+        "spam_score": 9.3
+      },
+      {
+        "date_reported": "2024-12-10",
+        "user_comment": "Asks for full card number.",
+        "spam_score": 9.5
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0034",
+    "type": "telemarketing",
+    "reported_name": "Cable Upgrade Deals",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Offers premium channels at a low rate.",
+    "reports": [
+      {
+        "date_reported": "2024-12-11",
+        "user_comment": "Keeps trying to upsell cable.",
+        "spam_score": 6.9
+      },
+      {
+        "date_reported": "2024-12-12",
+        "user_comment": "Repeated calls despite no interest.",
+        "spam_score": 7.4
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0035",
+    "type": "scam call",
+    "reported_name": "Local Tax Office Fraud",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Claims you owe local taxes, pay now.",
+    "reports": [
+      {
+        "date_reported": "2024-12-01",
+        "user_comment": "Demanded immediate payment.",
+        "spam_score": 9.0
+      },
+      {
+        "date_reported": "2024-12-02",
+        "user_comment": "Threatened a lien on my home.",
+        "spam_score": 9.2
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0036",
+    "type": "robocall",
+    "reported_name": "Vacation Packages",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Robo-offer for a discounted trip.",
+    "reports": [
+      {
+        "date_reported": "2024-12-03",
+        "user_comment": "Nonstop calls about trips.",
+        "spam_score": 7.0
+      },
+      {
+        "date_reported": "2024-12-04",
+        "user_comment": "Won’t remove from call list.",
+        "spam_score": 7.5
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0037",
+    "type": "smishing",
+    "reported_name": "E-Commerce Refund Scam",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Says you have a refund pending, click link.",
+    "reports": [
+      {
+        "date_reported": "2024-12-05",
+        "user_comment": "Fake Amazon refund.",
+        "spam_score": 9.1
+      },
+      {
+        "date_reported": "2024-12-06",
+        "user_comment": "Asks for bank details.",
+        "spam_score": 9.0
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0038",
+    "type": "telemarketing",
+    "reported_name": "Home Improvement Offers",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Pushes home renovation loans.",
+    "reports": [
+      {
+        "date_reported": "2024-12-07",
+        "user_comment": "Unsolicited offer for loans.",
+        "spam_score": 7.6
+      },
+      {
+        "date_reported": "2024-12-08",
+        "user_comment": "Persistent sales pitch.",
+        "spam_score": 7.8
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0039",
+    "type": "scam call",
+    "reported_name": "Fake Police Donation",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Says they’re collecting for local police fund.",
+    "reports": [
+      {
+        "date_reported": "2024-12-09",
+        "user_comment": "Refused to give official details.",
+        "spam_score": 8.7
+      },
+      {
+        "date_reported": "2024-12-10",
+        "user_comment": "Scam pretending to be police charity.",
+        "spam_score": 8.9
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0040",
+    "type": "spam text",
+    "reported_name": "Weight Loss Pills",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Says miracle pills will help you lose weight fast.",
+    "reports": [
+      {
+        "date_reported": "2024-12-11",
+        "user_comment": "Link to buy untested pills.",
+        "spam_score": 8.0
+      },
+      {
+        "date_reported": "2024-12-12",
+        "user_comment": "Multiple texts a week.",
+        "spam_score": 8.4
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0041",
+    "type": "robocall",
+    "reported_name": "Extended Warranty",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Car warranty about to expire, buy now.",
+    "reports": [
+      {
+        "date_reported": "2024-12-01",
+        "user_comment": "Overused scam tactic.",
+        "spam_score": 7.5
+      },
+      {
+        "date_reported": "2024-12-02",
+        "user_comment": "Calls at all hours.",
+        "spam_score": 7.9
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0042",
+    "type": "smishing",
+    "reported_name": "Check Cashing Scam",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Offers a check to deposit if you pay a small fee.",
+    "reports": [
+      {
+        "date_reported": "2024-12-03",
+        "user_comment": "Fake cashier’s check story.",
+        "spam_score": 9.4
+      },
+      {
+        "date_reported": "2024-12-04",
+        "user_comment": "Asks for bank info.",
+        "spam_score": 9.3
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0043",
+    "type": "telemarketing",
+    "reported_name": "Magazine Subscriptions",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Pushes magazine subscriptions at ‘discounted’ rates.",
+    "reports": [
+      {
+        "date_reported": "2024-12-05",
+        "user_comment": "Relentless calls.",
+        "spam_score": 6.9
+      },
+      {
+        "date_reported": "2024-12-06",
+        "user_comment": "Refused to remove me from list.",
+        "spam_score": 7.1
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0044",
+    "type": "scam call",
+    "reported_name": "College Grant Scam",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Says you’ve been awarded a grant, pay a fee to claim.",
+    "reports": [
+      {
+        "date_reported": "2024-12-07",
+        "user_comment": "Asked for upfront money.",
+        "spam_score": 8.9
+      },
+      {
+        "date_reported": "2024-12-08",
+        "user_comment": "Calls themselves a government official.",
+        "spam_score": 9.0
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0045",
+    "type": "phishing",
+    "reported_name": "Amazon Prime Renewal",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Your Prime subscription expired, log in to renew.",
+    "reports": [
+      {
+        "date_reported": "2024-12-09",
+        "user_comment": "Fake Amazon login page.",
+        "spam_score": 9.6
+      },
+      {
+        "date_reported": "2024-12-10",
+        "user_comment": "Asks for credit card details.",
+        "spam_score": 9.4
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0046",
+    "type": "telemarketing",
+    "reported_name": "Data Plan Upgrade",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Offers better data plans for your phone.",
+    "reports": [
+      {
+        "date_reported": "2024-12-11",
+        "user_comment": "Persistently calls about ‘deals.’",
+        "spam_score": 6.7
+      },
+      {
+        "date_reported": "2024-12-12",
+        "user_comment": "Never ending calls.",
+        "spam_score": 7.3
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0047",
+    "type": "scam call",
+    "reported_name": "Fake Lottery Official",
+    "last_reported_date": "2024-12-13",
+    "common_message": "You won a foreign lottery, pay a fee to receive winnings.",
+    "reports": [
+      {
+        "date_reported": "2024-12-01",
+        "user_comment": "Demands a ‘transfer fee.’",
+        "spam_score": 9.1
+      },
+      {
+        "date_reported": "2024-12-02",
+        "user_comment": "Claims it’s a huge prize.",
+        "spam_score": 9.0
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0048",
+    "type": "robocall",
+    "reported_name": "Student Loan Repayment",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Claims new programs can reduce your student loan if you provide details.",
+    "reports": [
+      {
+        "date_reported": "2024-12-03",
+        "user_comment": "Automated voice with no official info.",
+        "spam_score": 8.3
+      },
+      {
+        "date_reported": "2024-12-04",
+        "user_comment": "Repeated calls daily.",
+        "spam_score": 8.1
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0049",
+    "type": "smishing",
+    "reported_name": "Fake Utility Company",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Says your utility bill is overdue, pay online now.",
+    "reports": [
+      {
+        "date_reported": "2024-12-05",
+        "user_comment": "Fake link, not my utility company.",
+        "spam_score": 9.3
+      },
+      {
+        "date_reported": "2024-12-06",
+        "user_comment": "Threatens service cutoff.",
+        "spam_score": 9.1
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0050",
+    "type": "telemarketing",
+    "reported_name": "Insurance Broker",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Selling insurance policies at low rates.",
+    "reports": [
+      {
+        "date_reported": "2024-12-07",
+        "user_comment": "Keeps insisting on policy details.",
+        "spam_score": 7.5
+      },
+      {
+        "date_reported": "2024-12-08",
+        "user_comment": "Refuses to take no for an answer.",
+        "spam_score": 7.8
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0051",
+    "type": "scam call",
+    "reported_name": "Car Accident Compensation",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Says you’re owed compensation for an accident you never had.",
+    "reports": [
+      {
+        "date_reported": "2024-12-09",
+        "user_comment": "Wants personal details to process claim.",
+        "spam_score": 8.6
+      },
+      {
+        "date_reported": "2024-12-10",
+        "user_comment": "Keeps calling about imaginary accident.",
+        "spam_score": 8.8
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0052",
+    "type": "spam text",
+    "reported_name": "Fake Realtor",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Says they found a buyer for your home, just pay a service fee.",
+    "reports": [
+      {
+        "date_reported": "2024-12-11",
+        "user_comment": "Asks for upfront fee.",
+        "spam_score": 8.9
+      },
+      {
+        "date_reported": "2024-12-12",
+        "user_comment": "Repeated texts about interested buyers.",
+        "spam_score": 8.7
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0053",
+    "type": "phishing",
+    "reported_name": "Instagram Verification",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Says your Instagram account will be deleted unless verified.",
+    "reports": [
+      {
+        "date_reported": "2024-12-01",
+        "user_comment": "Fake login link.",
+        "spam_score": 9.2
+      },
+      {
+        "date_reported": "2024-12-02",
+        "user_comment": "Asks for password.",
+        "spam_score": 9.0
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0054",
+    "type": "telemarketing",
+    "reported_name": "Nutrition Supplements",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Tries to sell supplements and vitamins.",
+    "reports": [
+      {
+        "date_reported": "2024-12-03",
+        "user_comment": "Constant calls about pills.",
+        "spam_score": 7.2
+      },
+      {
+        "date_reported": "2024-12-04",
+        "user_comment": "No option to unsubscribe.",
+        "spam_score": 7.6
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0055",
+    "type": "scam call",
+    "reported_name": "Warrant for Arrest",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Claims you have a warrant, pay to clear it.",
+    "reports": [
+      {
+        "date_reported": "2024-12-05",
+        "user_comment": "Threatening tone.",
+        "spam_score": 9.5
+      },
+      {
+        "date_reported": "2024-12-06",
+        "user_comment": "Scare tactics.",
+        "spam_score": 9.4
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0056",
+    "type": "robocall",
+    "reported_name": "Mortgage Reduction",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Claims to lower your mortgage rate.",
+    "reports": [
+      {
+        "date_reported": "2024-12-07",
+        "user_comment": "No real details, just demands info.",
+        "spam_score": 7.8
+      },
+      {
+        "date_reported": "2024-12-08",
+        "user_comment": "Persistent calling.",
+        "spam_score": 7.9
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0057",
+    "type": "smishing",
+    "reported_name": "Health Survey",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Click link to complete health survey, win prize.",
+    "reports": [
+      {
+        "date_reported": "2024-12-09",
+        "user_comment": "Suspicious link, not legit survey.",
+        "spam_score": 8.5
+      },
+      {
+        "date_reported": "2024-12-10",
+        "user_comment": "Keeps texting survey links.",
+        "spam_score": 8.7
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0058",
+    "type": "telemarketing",
+    "reported_name": "Online Education Offer",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Says you qualify for discounted online courses.",
+    "reports": [
+      {
+        "date_reported": "2024-12-11",
+        "user_comment": "Wants money upfront.",
+        "spam_score": 7.4
+      },
+      {
+        "date_reported": "2024-12-12",
+        "user_comment": "Calls daily.",
+        "spam_score": 7.3
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0059",
+    "type": "scam call",
+    "reported_name": "Fake Government Grant",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Claims government selected you for a grant.",
+    "reports": [
+      {
+        "date_reported": "2024-12-01",
+        "user_comment": "Asks for a ‘processing fee.’",
+        "spam_score": 9.0
+      },
+      {
+        "date_reported": "2024-12-02",
+        "user_comment": "Pretends to be a gov official.",
+        "spam_score": 9.2
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0060",
+    "type": "spam text",
+    "reported_name": "Crypto Investment Scam",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Promises guaranteed returns on crypto investment.",
+    "reports": [
+      {
+        "date_reported": "2024-12-03",
+        "user_comment": "Link leads to scam site.",
+        "spam_score": 9.1
+      },
+      {
+        "date_reported": "2024-12-04",
+        "user_comment": "Claims instant profit.",
+        "spam_score": 8.9
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0061",
+    "type": "phishing",
+    "reported_name": "Zelle Payment Confirmation",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Your payment didn’t go through, verify now.",
+    "reports": [
+      {
+        "date_reported": "2024-12-05",
+        "user_comment": "Fake bank link.",
+        "spam_score": 9.5
+      },
+      {
+        "date_reported": "2024-12-06",
+        "user_comment": "Wants login details.",
+        "spam_score": 9.4
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0062",
+    "type": "telemarketing",
+    "reported_name": "Life Insurance Sales",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Offers special life insurance plans.",
+    "reports": [
+      {
+        "date_reported": "2024-12-07",
+        "user_comment": "Never stops calling.",
+        "spam_score": 7.2
+      },
+      {
+        "date_reported": "2024-12-08",
+        "user_comment": "Pushy sales tactics.",
+        "spam_score": 7.5
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0063",
+    "type": "scam call",
+    "reported_name": "Fake Bank Fraud Dept",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Says suspicious charges on your bank account.",
+    "reports": [
+      {
+        "date_reported": "2024-12-09",
+        "user_comment": "Wanted my account login.",
+        "spam_score": 9.3
+      },
+      {
+        "date_reported": "2024-12-10",
+        "user_comment": "Pretends to be bank security.",
+        "spam_score": 9.5
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0064",
+    "type": "robocall",
+    "reported_name": "Travel Club",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Offers membership in a travel club with discounts.",
+    "reports": [
+      {
+        "date_reported": "2024-12-11",
+        "user_comment": "Calls every day.",
+        "spam_score": 7.0
+      },
+      {
+        "date_reported": "2024-12-12",
+        "user_comment": "Won’t stop despite complaints.",
+        "spam_score": 7.2
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0065",
+    "type": "smishing",
+    "reported_name": "Bank Transfer Confirmation",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Asks you to confirm a big transfer you never made.",
+    "reports": [
+      {
+        "date_reported": "2024-12-01",
+        "user_comment": "Wants me to ‘cancel’ via a shady link.",
+        "spam_score": 9.6
+      },
+      {
+        "date_reported": "2024-12-02",
+        "user_comment": "Fake urgent text.",
+        "spam_score": 9.4
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0066",
+    "type": "telemarketing",
+    "reported_name": "Business Loan Offers",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Says you qualify for a low-interest business loan.",
+    "reports": [
+      {
+        "date_reported": "2024-12-03",
+        "user_comment": "Constant calls about loans.",
+        "spam_score": 7.8
+      },
+      {
+        "date_reported": "2024-12-04",
+        "user_comment": "Wants application fee.",
+        "spam_score": 7.9
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0067",
+    "type": "scam call",
+    "reported_name": "Fake Lawyer",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Claims to represent you in a lawsuit, needs a fee upfront.",
+    "reports": [
+      {
+        "date_reported": "2024-12-05",
+        "user_comment": "Won’t give bar number.",
+        "spam_score": 9.2
+      },
+      {
+        "date_reported": "2024-12-06",
+        "user_comment": "Threatens to drop the case if I don’t pay.",
+        "spam_score": 9.1
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0068",
+    "type": "phishing",
+    "reported_name": "Bank Pin Reset",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Asks you to reset your PIN via a link.",
+    "reports": [
+      {
+        "date_reported": "2024-12-07",
+        "user_comment": "Fake bank page.",
+        "spam_score": 9.3
+      },
+      {
+        "date_reported": "2024-12-08",
+        "user_comment": "Asks for personal data.",
+        "spam_score": 9.5
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0069",
+    "type": "telemarketing",
+    "reported_name": "Credit Repair Services",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Claims to fix credit score for a fee.",
+    "reports": [
+      {
+        "date_reported": "2024-12-09",
+        "user_comment": "Wants payment before services.",
+        "spam_score": 7.9
+      },
+      {
+        "date_reported": "2024-12-10",
+        "user_comment": "Pushy telemarketer.",
+        "spam_score": 7.6
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0070",
+    "type": "scam call",
+    "reported_name": "Inheritance Scam",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Says you inherited money, need to pay fees to claim.",
+    "reports": [
+      {
+        "date_reported": "2024-12-11",
+        "user_comment": "Ridiculous claim.",
+        "spam_score": 9.0
+      },
+      {
+        "date_reported": "2024-12-12",
+        "user_comment": "Wants bank details.",
+        "spam_score": 9.1
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0071",
+    "type": "robocall",
+    "reported_name": "Home Warranty",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Claims your home warranty expired.",
+    "reports": [
+      {
+        "date_reported": "2024-12-01",
+        "user_comment": "Generic scam.",
+        "spam_score": 7.4
+      },
+      {
+        "date_reported": "2024-12-02",
+        "user_comment": "Constant calls.",
+        "spam_score": 7.7
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0072",
+    "type": "smishing",
+    "reported_name": "Paycheck Advance",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Offers paycheck advance if you provide account details.",
+    "reports": [
+      {
+        "date_reported": "2024-12-03",
+        "user_comment": "Fake payday loan.",
+        "spam_score": 9.1
+      },
+      {
+        "date_reported": "2024-12-04",
+        "user_comment": "Asks for routing number.",
+        "spam_score": 9.0
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0073",
+    "type": "telemarketing",
+    "reported_name": "Identity Protection Services",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Wants to sell monthly ID protection.",
+    "reports": [
+      {
+        "date_reported": "2024-12-05",
+        "user_comment": "Not reputable.",
+        "spam_score": 7.1
+      },
+      {
+        "date_reported": "2024-12-06",
+        "user_comment": "Calls too often.",
+        "spam_score": 7.4
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0074",
+    "type": "scam call",
+    "reported_name": "Grandchild in Jail",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Pretends your grandchild is arrested, demands bail.",
+    "reports": [
+      {
+        "date_reported": "2024-12-07",
+        "user_comment": "Pretends to be grandson.",
+        "spam_score": 9.5
+      },
+      {
+        "date_reported": "2024-12-08",
+        "user_comment": "Asks for wire transfer.",
+        "spam_score": 9.4
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0075",
+    "type": "spam text",
+    "reported_name": "Fake Retail Coupon",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Says you get a coupon for a big store if you click link.",
+    "reports": [
+      {
+        "date_reported": "2024-12-09",
+        "user_comment": "Link asks for personal info.",
+        "spam_score": 8.7
+      },
+      {
+        "date_reported": "2024-12-10",
+        "user_comment": "Repeated fake coupon texts.",
+        "spam_score": 8.9
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0076",
+    "type": "phishing",
+    "reported_name": "Social Media Verification",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Your social media account needs verification.",
+    "reports": [
+      {
+        "date_reported": "2024-12-11",
+        "user_comment": "Fake verification link.",
+        "spam_score": 9.2
+      },
+      {
+        "date_reported": "2024-12-12",
+        "user_comment": "Asks for password.",
+        "spam_score": 9.0
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0077",
+    "type": "telemarketing",
+    "reported_name": "Real Estate Listing",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Claims they can sell your house quickly.",
+    "reports": [
+      {
+        "date_reported": "2024-12-01",
+        "user_comment": "Asks for listing fee.",
+        "spam_score": 7.3
+      },
+      {
+        "date_reported": "2024-12-02",
+        "user_comment": "Frequent calls.",
+        "spam_score": 7.6
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0078",
+    "type": "scam call",
+    "reported_name": "Fake Insurance Payout",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Says you are owed an insurance payout, just need your account details.",
+    "reports": [
+      {
+        "date_reported": "2024-12-03",
+        "user_comment": "Wants my routing number.",
+        "spam_score": 9.0
+      },
+      {
+        "date_reported": "2024-12-04",
+        "user_comment": "Bogus insurance claim.",
+        "spam_score": 9.1
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0079",
+    "type": "robocall",
+    "reported_name": "Magazine Renewal",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Says your magazine subscription is expiring.",
+    "reports": [
+      {
+        "date_reported": "2024-12-05",
+        "user_comment": "I never had this subscription.",
+        "spam_score": 7.1
+      },
+      {
+        "date_reported": "2024-12-06",
+        "user_comment": "Robocall daily.",
+        "spam_score": 7.3
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0080",
+    "type": "smishing",
+    "reported_name": "Work ID Update",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Asks employees to verify their work ID.",
+    "reports": [
+      {
+        "date_reported": "2024-12-07",
+        "user_comment": "Fake HR message.",
+        "spam_score": 9.2
+      },
+      {
+        "date_reported": "2024-12-08",
+        "user_comment": "Asks for login credentials.",
+        "spam_score": 9.0
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0081",
+    "type": "telemarketing",
+    "reported_name": "Property Management",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Claims they’ll manage your rental property for low fees.",
+    "reports": [
+      {
+        "date_reported": "2024-12-09",
+        "user_comment": "Unsolicited offer.",
+        "spam_score": 7.5
+      },
+      {
+        "date_reported": "2024-12-10",
+        "user_comment": "Calls frequently.",
+        "spam_score": 7.8
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0082",
+    "type": "scam call",
+    "reported_name": "Tax Refund Scam",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Says IRS owes you money, pay a fee to release funds.",
+    "reports": [
+      {
+        "date_reported": "2024-12-11",
+        "user_comment": "Complete nonsense.",
+        "spam_score": 9.1
+      },
+      {
+        "date_reported": "2024-12-12",
+        "user_comment": "Wants advance payment.",
+        "spam_score": 9.2
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0083",
+    "type": "spam text",
+    "reported_name": "Fake Ecommerce Promo",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Get 90% off products if you click now.",
+    "reports": [
+      {
+        "date_reported": "2024-12-01",
+        "user_comment": "Link to shady store.",
+        "spam_score": 8.9
+      },
+      {
+        "date_reported": "2024-12-02",
+        "user_comment": "Keeps texting offers.",
+        "spam_score": 8.7
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0084",
+    "type": "phishing",
+    "reported_name": "Mobile Carrier Warning",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Your phone plan is suspended, verify now.",
+    "reports": [
+      {
+        "date_reported": "2024-12-03",
+        "user_comment": "Fake carrier page.",
+        "spam_score": 9.4
+      },
+      {
+        "date_reported": "2024-12-04",
+        "user_comment": "Asks for billing info.",
+        "spam_score": 9.3
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0085",
+    "type": "telemarketing",
+    "reported_name": "Security System Upgrade",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Wants you to upgrade home security system.",
+    "reports": [
+      {
+        "date_reported": "2024-12-05",
+        "user_comment": "High pressure sales.",
+        "spam_score": 7.5
+      },
+      {
+        "date_reported": "2024-12-06",
+        "user_comment": "Calls several times a week.",
+        "spam_score": 7.9
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0086",
+    "type": "scam call",
+    "reported_name": "Fake Court Summons",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Says you’re summoned to court, must pay or appear.",
+    "reports": [
+      {
+        "date_reported": "2024-12-07",
+        "user_comment": "Threatening tone.",
+        "spam_score": 9.3
+      },
+      {
+        "date_reported": "2024-12-08",
+        "user_comment": "No official details given.",
+        "spam_score": 9.1
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0087",
+    "type": "robocall",
+    "reported_name": "Political Survey",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Automated political survey asking personal questions.",
+    "reports": [
+      {
+        "date_reported": "2024-12-09",
+        "user_comment": "Probably fishing for info.",
+        "spam_score": 7.0
+      },
+      {
+        "date_reported": "2024-12-10",
+        "user_comment": "Won’t stop calling.",
+        "spam_score": 7.1
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0088",
+    "type": "smishing",
+    "reported_name": "Pandemic Relief",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Says you qualify for relief funds, click link.",
+    "reports": [
+      {
+        "date_reported": "2024-12-11",
+        "user_comment": "Fake COVID relief.",
+        "spam_score": 9.2
+      },
+      {
+        "date_reported": "2024-12-12",
+        "user_comment": "Asks for SSN and bank info.",
+        "spam_score": 9.4
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0089",
+    "type": "telemarketing",
+    "reported_name": "Software Subscriptions",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Offers discounted software licenses.",
+    "reports": [
+      {
+        "date_reported": "2024-12-01",
+        "user_comment": "Pushing dubious software.",
+        "spam_score": 7.3
+      },
+      {
+        "date_reported": "2024-12-02",
+        "user_comment": "Frequent calls.",
+        "spam_score": 7.5
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0090",
+    "type": "scam call",
+    "reported_name": "Medical Bill Scam",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Says you owe medical bills, pay now.",
+    "reports": [
+      {
+        "date_reported": "2024-12-03",
+        "user_comment": "Never been to that hospital.",
+        "spam_score": 8.9
+      },
+      {
+        "date_reported": "2024-12-04",
+        "user_comment": "Threatens collections.",
+        "spam_score": 9.1
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0091",
+    "type": "spam text",
+    "reported_name": "Unknown Banking Alert",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Alert: Unusual activity, click link to confirm.",
+    "reports": [
+      {
+        "date_reported": "2024-12-05",
+        "user_comment": "Phishing attempt.",
+        "spam_score": 9.3
+      },
+      {
+        "date_reported": "2024-12-06",
+        "user_comment": "Asks for account info.",
+        "spam_score": 9.2
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0092",
+    "type": "phishing",
+    "reported_name": "Fake Insurance Verification",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Verify insurance info or policy will be canceled.",
+    "reports": [
+      {
+        "date_reported": "2024-12-07",
+        "user_comment": "Not my insurance company.",
+        "spam_score": 9.0
+      },
+      {
+        "date_reported": "2024-12-08",
+        "user_comment": "Asks for policy number and card details.",
+        "spam_score": 9.1
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0093",
+    "type": "telemarketing",
+    "reported_name": "Online Dating Service",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Offers premium dating membership.",
+    "reports": [
+      {
+        "date_reported": "2024-12-09",
+        "user_comment": "Unsolicited membership pitch.",
+        "spam_score": 7.1
+      },
+      {
+        "date_reported": "2024-12-10",
+        "user_comment": "Frequent calls.",
+        "spam_score": 7.4
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0094",
+    "type": "scam call",
+    "reported_name": "Fake Political Donation",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Asks for money to support a candidate, not affiliated really.",
+    "reports": [
+      {
+        "date_reported": "2024-12-11",
+        "user_comment": "No official website.",
+        "spam_score": 8.8
+      },
+      {
+        "date_reported": "2024-12-12",
+        "user_comment": "Demands donation now.",
+        "spam_score": 8.9
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0095",
+    "type": "robocall",
+    "reported_name": "Tech Support Renewal",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Your tech support subscription expired, pay to renew.",
+    "reports": [
+      {
+        "date_reported": "2024-12-01",
+        "user_comment": "Fake tech support.",
+        "spam_score": 9.2
+      },
+      {
+        "date_reported": "2024-12-02",
+        "user_comment": "Robotic voice.",
+        "spam_score": 9.1
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0096",
+    "type": "smishing",
+    "reported_name": "Gift Card Redemption",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Click link to redeem your $1000 gift card.",
+    "reports": [
+      {
+        "date_reported": "2024-12-03",
+        "user_comment": "Fake link asks for card info.",
+        "spam_score": 9.3
+      },
+      {
+        "date_reported": "2024-12-04",
+        "user_comment": "Repeated texts.",
+        "spam_score": 9.0
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0097",
+    "type": "telemarketing",
+    "reported_name": "Home Loan Refinance",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Says you can refinance your home easily.",
+    "reports": [
+      {
+        "date_reported": "2024-12-05",
+        "user_comment": "Unsolicited loan calls.",
+        "spam_score": 7.5
+      },
+      {
+        "date_reported": "2024-12-06",
+        "user_comment": "Won’t remove from list.",
+        "spam_score": 7.8
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0098",
+    "type": "scam call",
+    "reported_name": "Attorney Fee Request",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Poses as an attorney who needs fees for a settlement.",
+    "reports": [
+      {
+        "date_reported": "2024-12-07",
+        "user_comment": "No legit credentials.",
+        "spam_score": 9.0
+      },
+      {
+        "date_reported": "2024-12-08",
+        "user_comment": "Attempts to scare me.",
+        "spam_score": 9.2
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0099",
+    "type": "phishing",
+    "reported_name": "Credit Union Update",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Verify your credit union account or it will be frozen.",
+    "reports": [
+      {
+        "date_reported": "2024-12-09",
+        "user_comment": "I don’t use this credit union.",
+        "spam_score": 9.4
+      },
+      {
+        "date_reported": "2024-12-10",
+        "user_comment": "Asks for full account info.",
+        "spam_score": 9.6
+      }
+    ]
+  },
+  {
+    "phone_number": "+1-800-555-0100",
+    "type": "spam text",
+    "reported_name": "Fake Antivirus Renewal",
+    "last_reported_date": "2024-12-13",
+    "common_message": "Your antivirus subscription expired, renew now.",
+    "reports": [
+      {
+        "date_reported": "2024-12-11",
+        "user_comment": "Link to fake renewal site.",
+        "spam_score": 9.2
+      },
+      {
+        "date_reported": "2024-12-12",
+        "user_comment": "Constant reminders.",
+        "spam_score": 8.9
+      }
+    ]
+  }
+]
